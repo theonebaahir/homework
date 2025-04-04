@@ -1,0 +1,5 @@
+a = 5.5
+print("type of a" , type(a))
+w = 1875
+e = 1875
+print(w+e)
